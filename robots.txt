@@ -1,0 +1,4 @@
+Sitemap: http://www.dev-drop.com/sitemap.xml
+User-Agent: *
+Allow: /
+
