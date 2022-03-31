@@ -1386,3 +1386,42 @@ h5 {
 .property-agent .socials-a {
   text-align: center;
 }
+
+.footertxt1 {
+  z-index: 123;
+  color: white;
+  margin-top: 28rem;
+  text-align: center;
+}
+.media-heading3 {
+  text-align: center;
+}
+.form-control {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  resize: vertical;
+}
+.form-group {
+  padding: 1rem;
+  margin-left: 1rem;
+}
+textarea {
+  max-width: 95%;
+}
+.random4 {
+  z-index: -1;
+  position: absolute;
+  top: 50rem;
+  width: 100vw;
+  height: 43rem;
+  background: #0d80c7;
+  clip-path: polygon(0 39%, 100% 20%, 100% 100%, 0 100%);
+}
+.footertxt2 {
+  z-index: 123;
+  color: white;
+  text-align: center;
+}
